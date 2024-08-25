@@ -1,16 +1,9 @@
 # lab33_qnais
 
-A new Flutter project.
+C'est une application mobile Flutter qui permet d'enregistrer et d'envoyer des messages audio, tout en offrant la possibilité de les interrompre. De plus, l'utilisateur peut générer des images en saisissant simplement le nom de l'image souhaitée.
 
-## Getting Started
+## App
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <img src="assets/images/1.jpg"/>
+ <img src="assets/images/2.jpg"/>
+ <img src="assets/images/3.jpg"/>
